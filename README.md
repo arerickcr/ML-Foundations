@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Foundations
 
-This repository contains implementations and hands-on projects and homework inspired by Coursera and DataCamp courses.
+This repository contains implementations, hands-on projects and homework inspired by Coursera and DataCamp courses.
 
 ## 📚 Topics Covered
 - Supervised Learning (Linear/Logistic Regression, Regularization)
