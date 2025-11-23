@@ -3,7 +3,7 @@
 This repository contains implementations, hands-on projects and homework inspired by Coursera and DataCamp courses.
 
 ## 📚 Topics Covered
-- Supervised Learning (Linear/Logistic Regression, Regularization)
+- Supervised Learning (Linear/Logistic Regression, Regularization, Neural Networks)
 <!--
 - Tree-Based Models (Decision Trees, Random Forests, Boosting)
 - Unsupervised Learning (KMeans, PCA)
