@@ -14,10 +14,8 @@ This repository contains implementations, hands-on projects and homework inspire
 - Python (NumPy, pandas, scikit-learn, matplotlib, seaborn)
 - Jupyter Notebooks
 - Git + GitHub for version control
-
+-->
 ## 📈 Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| Titanic Survival | Classification on passenger data | pandas, sklearn |
-| House Prices | Regression and feature engineering | sklearn, seaborn |
--->
+| Credit Card Approvals | Classification on credit card approvals data | pandas, sklearn, numpy |
